@@ -67,9 +67,9 @@
 
 ### 📫 Vamos nos conectar?
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/thiagoreisfreitas/)
+- 💼 [LinkedIn](linkedin.com/in/thiagoreisfreitas)
 - 📧 Email: devthiagoreis@gmail.com
-- 🌐 [Portfólio (se tiver)](https://seuportfolio.com)
+- 🌐 [Portfólio](https://thiagoreisfreitas.github.io/portifolio/)
 
 ---
 
