@@ -75,5 +75,5 @@
 
 <!-- Rodapé animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF79C6&size=22&center=true&vCenter=true&lines=Seja+bem-vindo+ao+meu+GitHub!;Explore+meus+projetos+e+conhecimentos!;Conecte-se+comigo+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF79C6&size=20&center=true&vCenter=true&lines=Seja+bem-vindo+ao+meu+GitHub!;Explore+meus+projetos+e+conhecimentos!;Conecte-se+comigo+%F0%9F%9A%80" />
 </p>
